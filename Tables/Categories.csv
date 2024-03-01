@@ -1,0 +1,18 @@
+category_id,category,sub_category
+SUB-0001,Furniture,Bookcases
+SUB-0002,Furniture,Chairs
+SUB-0003,Furniture,Furnishings
+SUB-0004,Furniture,Tables
+SUB-0005,Office Supplies,Appliances
+SUB-0006,Office Supplies,Art
+SUB-0007,Office Supplies,Binders
+SUB-0008,Office Supplies,Envelopes
+SUB-0009,Office Supplies,Fasteners
+SUB-0010,Office Supplies,Labels
+SUB-0011,Office Supplies,Paper
+SUB-0012,Office Supplies,Storage
+SUB-0013,Office Supplies,Supplies
+SUB-0014,Technology,Accessories
+SUB-0015,Technology,Copiers
+SUB-0016,Technology,Machines
+SUB-0017,Technology,Phones
